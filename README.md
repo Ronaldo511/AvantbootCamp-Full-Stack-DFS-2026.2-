@@ -340,7 +340,9 @@ Projeto desenvolvido para a disciplina **Desenvolvimento Full Stack Básico (DFS
 **Integrantes:**
 
 * Ronaldo511— Desenvolvimento Backend
+
 * Ronaldo511— Modelagem do Banco de Dados
+
 * Ronaldo511— Testes, Homologação e Documentação
 
 ---
