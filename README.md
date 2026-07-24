@@ -339,11 +339,9 @@ Projeto desenvolvido para a disciplina **Desenvolvimento Full Stack Básico (DFS
 
 **Integrantes:**
 
-* Nome do Integrante 1 — Desenvolvimento Backend
-* Nome do Integrante 2 — Modelagem do Banco de Dados
-* Nome do Integrante 3 — Testes, Homologação e Documentação
-
-*(Substitua pelos nomes reais e respectivas contribuições.)*
+* Ronaldo511— Desenvolvimento Backend
+* Ronaldo511— Modelagem do Banco de Dados
+* Ronaldo511— Testes, Homologação e Documentação
 
 ---
 
